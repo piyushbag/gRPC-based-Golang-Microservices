@@ -1,4 +1,4 @@
-# grpc based Golang Microservice
+# gRPC based Golang Microservice
 
 # Content
 
